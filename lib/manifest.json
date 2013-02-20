@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "wc.makit.lv status",
+  "description": "This extension follows wc.makit.lv status.",
+  "version": "0.1",
+
+  "background": { "scripts": ["wc.js"] },
+
+  "browser_action": {
+    "default_icon": "icon_ok.png"
+  },
+
+  "permissions": ["http://wc.makit.lv/"]
+}
