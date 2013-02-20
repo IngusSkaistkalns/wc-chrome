@@ -9,7 +9,7 @@ Chrome extension for wc.makit.lv status
 * Check `Developer mode`
 * Click `Load Unpacked Extension...`
 * Lead path to lib/ directory
-* Forget about checking wc.makit.lv everytime before you need to go :)  ###(almost)
+* Never check wc.makit.lv before you need to go :) ... _almost never_
 
 ## Notes
 * Checks wc.makit.lv every second
