@@ -11,5 +11,7 @@
     "default_icon": "images/no_info.png"
   },
 
-  "permissions": ["http://wc.makit.lv/"]
+  "permissions": ["http://wc.makit.lv/"],
+
+  "homepage_url": "http://wc.makit.lv/"
 }
