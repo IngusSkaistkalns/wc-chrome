@@ -3,7 +3,7 @@
 
   "name": "wc.makit.lv status",
   "description": "This extension follows wc.makit.lv status.",
-  "version": "0.3",
+  "version": "0.4",
 
   "background": { "scripts": ["wc.js"] },
 
